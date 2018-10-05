@@ -20,6 +20,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Catholic World, Vol. 17, April, 1873 to September, 1873
 
   A Monthly Magazine of General Literature and Science'
